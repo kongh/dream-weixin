@@ -6,7 +6,7 @@
   <display-name>Archetype Created Web Application</display-name>
     <servlet>
         <servlet-name>weixinDispatcher</servlet-name>
-        <servlet-class>com.coder.weixin.dispatcher.WeiXinDispatcherServlet</servlet-class>
+        <servlet-class>com.coder.dream.weixin.dispatcher.WeChatDispatcherServlet</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>weixinDispatcher</servlet-name>
